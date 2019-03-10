@@ -1,2 +1,2 @@
 # Spring Framework 5
-Learn Spring Core, Spring AOP, Spring MVC, Spring Security, Spring REST, Hibernate
+Spring Core,Spring MVC,Hibernate, Spring REST, Spring Boot, Maven, Spring Security, Spring AOP
